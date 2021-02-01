@@ -1,0 +1,10 @@
+.container {
+  background-color: #ffc0cb;
+  text-align: center;
+  line-height: 200px;
+  height: 200px;
+}
+
+.outer [class*="col-"] {
+  border: 1px solid black;
+}
